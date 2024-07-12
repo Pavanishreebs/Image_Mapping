@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamilnadu</title>
+</head>
+<body style="background-color: beige;">
+    <h1 style="color: goldenrod;"><B>Tamilnadu<U></U></B></h1>
+      <img style="height: 250px;" src="tamilnadu-banner.webp" alt="image loading"><br>
+   <br><br>
+   <p style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding: auto;">Tamil Nadu, a South Indian state, is famed for its Dravidian-style Hindu temples. <br> Madurai, Meenakshi Amman Temple has high ‘gopuram’ towers ornamented with colourful.
+    <br> On Pamban Island, Ramanathaswamy Temple is a pilgrimage site. The town of Kanyakumari, at India’s southernmost tip, is the site of ritual sunrises.<br>
+     Capital Chennai is known for beaches and landmarks including 1644 colonial Fort St. George</p> 
+</body>
+</html>

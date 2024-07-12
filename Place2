@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kerala</title>
+</head>
+<body style="background-color: darkkhaki;">
+    <h1 style="color: darkolivegreen;"><b><u>Kerala</u></b></h1>
+    <img style="height: 250px;" src="kerala.png" alt="not found">
+    <p style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline.
+        <br> It's known for its palm-lined beaches and backwaters, a network of canals. 
+        <br>Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife. 
+        <br>National parks like Eravikulam and Periyar, plus Wayanad and other sanctuaries, are home to elephants, langur monkeys and tigers.</p> 
+</body>
+</html>
